@@ -1,0 +1,10 @@
+Charles/Leclerc/Ferrari/Monaco/828/14/5/11
+Sebastian/Vettel/Nissan/Germany/867/10/13/6
+Max/Verstappen/Red Bull/Netherlands/741/8/9/2
+Mick/Schumacher/BMW/Germany/788/3/10/15
+Fernando/Alonso/Alfa Romeo/Spain/755/5/9/6
+Valtteri/Bottas/Renault/Finland/810/10/9/5
+Lance/Stroll/Peugeot/Canada/764/9/6/6
+Yuki/Tsunoda/Mitsubishi/Japan/741/5/7/8
+Antonio/Giovinazzi/Toyota/Italy/698/6/5/9
+Lewis/Hamilton/Mercedes/Great Britain/684/6/3/8
